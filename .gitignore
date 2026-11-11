@@ -2,3 +2,8 @@ __pycache__/
 *.pyc
 .vscode/
 3-Intermediario/2-Analise_de_dados_com_panda_excel/Novo Vendas 2017.csv
+
+# Ambientes virtuais Python
+venv/
+.venv/
+teste-pandas/
